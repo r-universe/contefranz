@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "msmtools"]
 	path = msmtools
 	url = https://github.com/contefranz/msmtools
-	shallow = true
-	registered = true
